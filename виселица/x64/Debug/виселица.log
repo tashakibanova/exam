@@ -1,0 +1,7 @@
+﻿  виселица.cpp
+C:\Users\natal\Desktop\Github\виселица\виселица.cpp(53,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\natal\Desktop\Github\виселица\виселица.cpp(77,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\natal\Desktop\Github\виселица\виселица.cpp(81,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\natal\Desktop\Github\виселица\виселица.cpp(171,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\natal\Desktop\Github\виселица\виселица.cpp(183,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  виселица.vcxproj -> C:\Users\natal\Desktop\Github\виселица\x64\Debug\виселица.exe
